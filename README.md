@@ -31,7 +31,7 @@ demonstrating hands-on expertise in **Python, analytics, and intelligent model b
 |----------|------|
 | 📧 Email | gauridsml23@gmail.com |
 | 💼 LinkedIn | https://www.linkedin.com/in/gauri-katkar-09b4402aa/ |
-| 💻 GitHub | https://github.com/Gauri-dsml23 |
+| 💻 GitHub | https://github.com/Gauri-dsml23/Data-Science-ML-Projects-EDA-NLP-CV-etc-etc |
 | 🧠 LeetCode | https://leetcode.com/u/BitByBit_Solver2k25/ |
 | 📊 Tableau Public | https://public.tableau.com/app/profile/gauri.katkar/vizzes |
 | ✍️ Medium | https://medium.com/@harekrishna2k24/गौरी-काटकर-dae04a8e0c4d |
