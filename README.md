@@ -1,7 +1,6 @@
 # 🚀 Data Science & ML Projects | EDA • NLP • CV • Deep Learning
 
-A powerful collection of **industry-focused Data Science and Machine Learning projects**  
-demonstrating hands-on expertise in **Python, analytics, and intelligent model building**.
+A powerful collection of **industry-focused Data Science and Machine Learning projects** demonstrating hands-on expertise in **Python, analytics, and intelligent model building**.
 
 📌 What this repository covers:
 - 📊 EDA & Statistical Analysis  
@@ -43,44 +42,60 @@ demonstrating hands-on expertise in **Python, analytics, and intelligent model b
 
 # 📊 Scaler Data Science Projects
 
+---
+
 ## 🧮 Statistics & SQL
+
 | Project | Topic | Link |
 |--------|------|------|
-| Target | SQL Analysis | https://docs.google.com/document/d/1mzdGiouqP2CK3DFEmyuubqfzA785EPPSyH9Vre-uJ9g/edit?usp=drive_link |
-| Netflix | Data Exploration | https://colab.research.google.com/drive/1fhs5rATZaxwPsEgZg4h5a0Msst3o8CX8?usp=sharing |
-| Aerofit | Descriptive Statistics | https://drive.google.com/file/d/12HhgOG-wQS3EeDizmVFq1tH-hlNYwW8s/view?usp=drive_link |
-| Walmart | Confidence Interval | https://colab.research.google.com/drive/1K-6gYVEn6ChVgHwIqiFnnKV5Qfouz_nH?usp=sharing |
-| Yulu | Hypothesis Testing | https://colab.research.google.com/drive/1N_hvn_apYlQATWKzBoB7006OENTR8xi_?usp=sharing |
+| Target | SQL Analysis | [View Project](https://docs.google.com/document/d/1mzdGiouqP2CK3DFEmyuubqfzA785EPPSyH9Vre-uJ9g/edit?usp=drive_link) |
+| Netflix | Data Exploration | [View Notebook](https://colab.research.google.com/drive/1fhs5rATZaxwPsEgZg4h5a0Msst3o8CX8?usp=sharing) |
+| Aerofit | Descriptive Statistics | [View Report](https://drive.google.com/file/d/12HhgOG-wQS3EeDizmVFq1tH-hlNYwW8s/view?usp=drive_link) |
+| Walmart | Confidence Interval | [View Notebook](https://colab.research.google.com/drive/1K-6gYVEn6ChVgHwIqiFnnKV5Qfouz_nH?usp=sharing) |
+| Yulu | Hypothesis Testing | [View Notebook](https://colab.research.google.com/drive/1N_hvn_apYlQATWKzBoB7006OENTR8xi_?usp=sharing) |
 
 ---
 
 ## 🤖 Machine Learning
+
 | Project | Model | Link |
 |--------|------|------|
-| Delhivery | Feature Engineering | https://colab.research.google.com/drive/1BbM479AcjRs54G1hf0k-fJHJeZxDJxFP?usp=sharing |
-| Jamboree | Linear Regression | https://colab.research.google.com/drive/1e2ONiq-LnVrMrYV-Ue2FHYasvDNxzl6s |
-| LoanTap | Logistic Regression | https://colab.research.google.com/drive/1mGpa8-0Qlh9zw7qGboX451YhN7iE4tBK?usp=sharing |
-| OLA | Ensemble Learning | https://colab.research.google.com/drive/1V0gplQ6FbyViVhPW3Kal69rpRFboIP9n?usp=sharing |
-| Scaler | Clustering | https://colab.research.google.com/drive/1rFoxN7IVqQtRR8pUPWcgeF2OhTrxeSXT?usp=sharing |
+| Delhivery | Feature Engineering | [View Notebook](https://colab.research.google.com/drive/1BbM479AcjRs54G1hf0k-fJHJeZxDJxFP?usp=sharing) |
+| Jamboree | Linear Regression | [View Model](https://colab.research.google.com/drive/1e2ONiq-LnVrMrYV-Ue2FHYasvDNxzl6s) |
+| LoanTap | Logistic Regression | [View Model](https://colab.research.google.com/drive/1mGpa8-0Qlh9zw7qGboX451YhN7iE4tBK?usp=sharing) |
+| OLA | Ensemble Learning | [View Model](https://colab.research.google.com/drive/1V0gplQ6FbyViVhPW3Kal69rpRFboIP9n?usp=sharing) |
+| Scaler | Clustering | [View Analysis](https://colab.research.google.com/drive/1rFoxN7IVqQtRR8pUPWcgeF2OhTrxeSXT?usp=sharing) |
 
 ---
 
 ## 📈 Advanced Analytics
+
 | Project | Area | Link |
 |--------|------|------|
-| AdEase | Time Series | https://colab.research.google.com/drive/1cOLKdpajU_1ufB-Zu00zXw4KIEkdpZGM?usp=sharing |
-| Zee | Recommender System | https://colab.research.google.com/drive/1LOscqNchGV19mEIvo8Oae2QUReMBwHnK?usp=sharing |
-| Porter | Neural Network | https://colab.research.google.com/drive/1P_abuvgWhfAvZfQNTjH7NzAl8VabPYyV?usp=sharing |
-| Ninjacart | Computer Vision | https://colab.research.google.com/drive/1Ssj6sxSPP5EkbR1nehaKofJ81m7I3-ex?usp=sharing |
-| FlipItNews | NLP | https://colab.research.google.com/drive/1chGUhAqTOSoKXBxS4ojQRH48YYsVuKBx?usp=sharing |
+| AdEase | Time Series | [View Forecast](https://colab.research.google.com/drive/1cOLKdpajU_1ufB-Zu00zXw4KIEkdpZGM?usp=sharing) |
+| Zee | Recommender System | [View System](https://colab.research.google.com/drive/1LOscqNchGV19mEIvo8Oae2QUReMBwHnK?usp=sharing) |
+| Porter | Neural Network | [View Model](https://colab.research.google.com/drive/1P_abuvgWhfAvZfQNTjH7NzAl8VabPYyV?usp=sharing) |
+| Ninjacart | Computer Vision | [View Model](https://colab.research.google.com/drive/1Ssj6sxSPP5EkbR1nehaKofJ81m7I3-ex?usp=sharing) |
+| FlipItNews | NLP | [View Model](https://colab.research.google.com/drive/1chGUhAqTOSoKXBxS4ojQRH48YYsVuKBx?usp=sharing) |
 
 ---
 
-## 🛠️ Skills Snapshot
-Python | SQL | Pandas | NumPy | Scikit-learn | Tableau
-Machine Learning | Statistics | NLP | Computer Vision
-EDA | Feature Engineering | Model Building | Analytics
+## 🛠️ Skills & Tools
 
+- **Programming:** Python, SQL.
+- **Libraries:** Pandas, NumPy, Scikit-learn, SciPy, Matplotlib, Seaborn, Plotly, TensorFlow, PyTorch, OpenCV.
+- **Machine Learning:** EDA, Feature Engineering, Model Building, Analytics, Regression, Classification, Clustering, NLP, Computer Vision, Deep Learning.  
+- **Visualization:** Tableau, Power BI, Adv. Excel.
+- **Other Tools:** BigQuery, Git, Google Colab, VS Code, Jupyter Notebook, MySQL.
+
+---
+
+## 🎯 Key Highlights
+
+- Built multiple end-to-end projects covering **EDA, statistical analysis, and machine learning**
+- Applied **business-focused problem solving** across domains like logistics, retail, and media
+- Strong foundation in **data analysis, feature engineering, and model building**
+- Hands-on experience with **real-world datasets and KPI-driven insights**
 
 ---
 
