@@ -26,17 +26,17 @@ A powerful collection of **industry-focused Data Science and Machine Learning pr
 
 ## 🔗 Connect With Me
 
-| Platform | Link |
-|----------|------|
-| 📧 Email | gauridsml23@gmail.com |
-| 💼 LinkedIn | https://www.linkedin.com/in/gauri-katkar-09b4402aa/ |
-| 💻 GitHub | https://github.com/Gauri-dsml23/Data-Science-ML-Projects-EDA-NLP-CV-etc-etc |
-| 🧠 LeetCode | https://leetcode.com/u/BitByBit_Solver2k25/ |
-| 📊 Tableau Public | https://public.tableau.com/app/profile/gauri.katkar/vizzes |
-| ✍️ Medium | https://medium.com/@harekrishna2k24/गौरी-काटकर-dae04a8e0c4d |
-| 📁 Data Science Portfolio | https://www.datascienceportfol.io/gauridsml23 |
-| 🏆 Kaggle | https://www.kaggle.com/gaurikatkar |
-| 🎓 Scaler Profile | https://www.scaler.com/academy/profile/ca289a2fe7db/ |
+| Platform | Access |
+|----------|--------|
+| 📧 Email | [Contact](mailto:gauridsml23@gmail.com) |
+| 💼 LinkedIn | [View Profile](https://www.linkedin.com/in/gauri-katkar-09b4402aa/) |
+| 💻 GitHub | [View Projects](https://github.com/Gauri-dsml23/Data-Science-ML-Projects-EDA-NLP-CV-etc-etc) |
+| 🧠 LeetCode | [View Profile](https://leetcode.com/u/BitByBit_Solver2k25/) |
+| 📊 Tableau Public | [View Dashboards](https://public.tableau.com/app/profile/gauri.katkar/vizzes) |
+| ✍️ Medium | [Read Articles](https://medium.com/@harekrishna2k24/गौरी-काटकर-dae04a8e0c4d) |
+| 📁 Data Science Portfolio | [View Portfolio](https://www.datascienceportfol.io/gauridsml23) |
+| 🏆 Kaggle | [View Profile](https://www.kaggle.com/gaurikatkar) |
+| 🎓 Scaler Profile | [View Profile](https://www.scaler.com/academy/profile/ca289a2fe7db/) |
 
 ---
 
@@ -77,6 +77,7 @@ A powerful collection of **industry-focused Data Science and Machine Learning pr
 | Porter | Neural Network | [View Model](https://colab.research.google.com/drive/1P_abuvgWhfAvZfQNTjH7NzAl8VabPYyV?usp=sharing) |
 | Ninjacart | Computer Vision | [View Model](https://colab.research.google.com/drive/1Ssj6sxSPP5EkbR1nehaKofJ81m7I3-ex?usp=sharing) |
 | FlipItNews | NLP | [View Model](https://colab.research.google.com/drive/1chGUhAqTOSoKXBxS4ojQRH48YYsVuKBx?usp=sharing) |
+| Twitter NER | NLP | [View Model](https://colab.research.google.com/drive/1ul9PeWYarLjlIRHa7R2WHqhIRPo-BQbQ?usp=sharing) |
 
 ---
 
