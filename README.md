@@ -78,6 +78,7 @@ A powerful collection of **industry-focused Data Science and Machine Learning pr
 | Ninjacart | Computer Vision | [View Model](https://colab.research.google.com/drive/1Ssj6sxSPP5EkbR1nehaKofJ81m7I3-ex?usp=sharing) |
 | FlipItNews | NLP | [View Model](https://colab.research.google.com/drive/1chGUhAqTOSoKXBxS4ojQRH48YYsVuKBx?usp=sharing) |
 | Twitter NER | NLP | [View Model](https://colab.research.google.com/drive/1ul9PeWYarLjlIRHa7R2WHqhIRPo-BQbQ?usp=sharing) |
+| FlipItNews - Revised | NLP | [View Model](https://colab.research.google.com/drive/1HUT_-JnOZjMcWP3USvx_6wpQXiG1G9d6?usp=sharing) |
 
 ---
 
